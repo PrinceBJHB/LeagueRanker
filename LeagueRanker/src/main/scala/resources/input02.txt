@@ -1,0 +1,3 @@
+TeamE 5, TeamF 6
+TeamC 3, TeamD 4
+TeamA 1, TeamB 2
